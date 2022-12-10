@@ -28,7 +28,7 @@ If everything went correctly, there should be a green circle on the dashboard.
 
 # How to use Nodium?
 ## Using the website
-You can use Nodium from [this](https://nodium.github.io) website.
+You can use Nodium from [this](https://nodiumapp.github.io) website.
 
 ## Using a Chromecast
 soon™
