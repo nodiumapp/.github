@@ -8,7 +8,7 @@ Every user can not only make their own servers, but also request games!
 (DISCLAIMER! We currently accept primarily only public domain games. If you (the requester) have talked with a games publisher, and they have got a deal for us, the game may be accepted.)
 
 ## 🖥 How to request a server:
-NOTE: You need to have the port: 13143, open on the server's internet network.
+**NOTE: You need to have the port: 13143, open on the server's internet network.**
 
 First, you need to have at least:
  - 4 GB of RAM
