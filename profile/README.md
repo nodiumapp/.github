@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Stadia_logo.svg">
+
 # Nodium
 The Stadia revival project.
 
